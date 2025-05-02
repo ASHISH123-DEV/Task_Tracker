@@ -1,8 +1,0 @@
-# Node modules
-node_modules/
-dist/
-# Local environment variables
-/public
-
-# Editor directories and files
-.vscode/
